@@ -33,11 +33,11 @@ img{
 }
 
 .title{
-  font-size: 20px;
+  font-size: 1em;
   background-color: rgb(97, 64, 128);
   color: white;
   text-align: center;
-  margin:20px;
+  margin:10px;
   padding:5px;
 }
 
